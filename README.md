@@ -297,7 +297,3 @@ Data sourced from [GlobalFirepower.com](https://www.globalfirepower.com) (public
 
 ---
 
-## Author
-
-GDM Analytics Team
-
